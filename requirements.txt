@@ -1,0 +1,8 @@
+apache-airflow==2.10.1
+gspread==6.1.2
+pandas==2.2.3
+pendulum==3.0.0
+psycopg2-binary==2.9.10
+pytest==8.3.5
+SQLAlchemy==2.0.39
+
